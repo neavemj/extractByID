@@ -7,4 +7,4 @@ Should be run with fasta file first, then seq ID (header) list, then a name for 
 
 extractByID.py fasta_file ID_list output_name
 
-Requires biopython
+Requires biopython 
