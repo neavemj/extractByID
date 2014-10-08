@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # Matthew J Neave 6.5.2014
-# extract sequences using a list of IDs
+# extract sequences using a list of header IDs
 # input fasta first, then seq IDs, then a name for the output
 # requires biopython
 
